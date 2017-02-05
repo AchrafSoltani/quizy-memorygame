@@ -13,10 +13,10 @@ The QuizY Memory Card Game plugin is a jQuery plugin, which allows the creation 
 Download the [plugin](https://github.com/frenski/quizy-memorygame) and include all the necessary files before the closing body tag.
 
 ```html
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" /></script>
-<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.17/jquery-ui.min.js" /></script>
-<script src="js/jquery.flip.min.js" /></script>
-<script src="js/jquery.quizymemorygame.js" /></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.17/jquery-ui.min.js"></script>
+<script src="js/jquery.flip.min.js"></script>
+<script src="js/jquery.quizymemorygame.js"></script>
 ...
 </body>
 ```
